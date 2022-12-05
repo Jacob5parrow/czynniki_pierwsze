@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">abc</string>
+    <string name="hint">hint</string>
+    <string name="oblicz">Oblicz</string>
+</resources>
